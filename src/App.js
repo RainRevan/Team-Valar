@@ -1,6 +1,6 @@
 import logoCargado from './logo.svg';
 import './css/App.css';
-import Home from './components/home';
+import Home from './components/nosotros';
 import Navbar from './components/navbar';
 import Ruta2 from './components/Ruta2';
 import { Route, Link, Routes } from "react-router-dom";
